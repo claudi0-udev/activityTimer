@@ -1,0 +1,54 @@
+{
+    "activities":
+    [{
+        "name" : "jogg",
+        "timer": [
+            {
+                "tag": "jogging",
+                "time" : 10
+            },
+            {
+                "tag": "brake",
+                "time" : 2
+            },
+            {
+                "tag": "jogging",
+                "time" : 10
+            },
+            {
+                "tag": "brake",
+                "time" : 2
+            },
+            {
+                "tag": "jogging",
+                "time" : 10
+            },
+            {
+                "tag": "brake",
+                "time" : 2
+            },
+            {
+                "tag": "jogging",
+                "time" : 10
+            },
+            {
+                "tag": "brake",
+                "time" : 4
+            },
+            {
+                "tag": "jogging",
+                "time" : 10
+            },
+            {
+                "tag": "brake",
+                "time" : 4
+            },
+            {
+                "tag": "jogging",
+                "time" : 10
+            }
+
+        ]
+    }
+    ]
+}
